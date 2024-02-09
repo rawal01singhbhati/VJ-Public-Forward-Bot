@@ -1,10 +1,10 @@
 from os import environ
 class Config(object):
-    API_ID = environ.get("API_ID", "9239475")
-    API_HASH = environ.get("API_HASH", "45bca1de511c5133d0d83e0f7f456bee")
-    BOT_TOKEN = environ.get("BOT_TOKEN", "6922036916:AAHod6WEiUf70eq6ytG2P1uRrk6__uQ-xHU")
+    API_ID = environ.get("API_ID", "16494736")
+    API_HASH = environ.get("API_HASH", "2cb7fa5859e2de684e3e10d9c049621a")
+    BOT_TOKEN = environ.get("BOT_TOKEN", "6449542986:AAGfy0dRTR_hPXak9AorRZIeEIehwgvLOv0")
     STRING_SESSION = environ.get("STRING_SESSION", "")
-    SUDO_USERS = environ.get("SUDO_USERS", "5796251936")
+    SUDO_USERS = environ.get("SUDO_USERS", "5071104456")
     COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "^/")
     HELP_MSG = """
     💢 **ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ɪɴ ᴛʜᴇ ʙᴏᴛ ᴀʀᴇ:**
